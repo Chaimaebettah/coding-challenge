@@ -1,13 +1,13 @@
 ### instructions to run the app:
-cd to the project folder.
+1- cd to the project folder
 ```run npm init```
-and then open two terminal tabs one to run the front end and the other for backend.
+2- open two terminal tabs one to run the front end and the other for backend.
 
 
 ## Backend:
 to run the backend use: 
 
-```npm run apid```
+```npm run apidev```
 
 
 ## Front end:
